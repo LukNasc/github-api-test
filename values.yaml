@@ -1,0 +1,6 @@
+project:
+  enabled: true
+  app:
+    deployment:
+      tag: 0.0.1
+  
