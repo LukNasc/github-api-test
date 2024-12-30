@@ -2,5 +2,4 @@ project:
   enabled: true
   app:
     deployment:
-      tag: 0.0.1
-  
+        tag: 0.0.1
